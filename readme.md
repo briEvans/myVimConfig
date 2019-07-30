@@ -7,3 +7,11 @@ Easily install out of the box setup for vim superpowers
 1. Install Vundle Package Manager
 	* https://github.com/VundleVim/Vundle.vim
 1. Copy the .vimrc file stored here and paste into local .vimrc
+
+1. Open vim 
+	* `$ vi ~/.vimrc`
+
+1. Install all plugins
+	* `:PluginInstall`
+
+
